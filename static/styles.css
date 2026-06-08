@@ -1,0 +1,229 @@
+:root {
+    --bg-color: #f4f0ec;
+    --accent-color: #ff3b30;
+    --border-color: #111;
+    --card-bg: #fff;
+    --shadow-color: #111;
+    --border-width: 4px;
+    --shadow-offset: 8px;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: var(--bg-color);
+    color: var(--border-color);
+    background-image: radial-gradient(#ccc 1px, transparent 1px);
+    background-size: 20px 20px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+}
+
+.container {
+    width: 100%;
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: 900;
+    line-height: 1;
+    text-transform: uppercase;
+    letter-spacing: -2px;
+}
+
+h1 .highlight {
+    color: var(--accent-color);
+    text-shadow: 4px 4px 0 var(--shadow-color);
+    -webkit-text-stroke: 2px var(--border-color);
+}
+
+p {
+    font-size: 1.2rem;
+    font-weight: 700;
+    margin-top: 1rem;
+}
+
+/* Neobrutalism Utilities */
+.neo-box {
+    background-color: var(--card-bg);
+    border: var(--border-width) solid var(--border-color);
+    box-shadow: var(--shadow-offset) var(--shadow-offset) 0 var(--shadow-color);
+    border-radius: 8px;
+}
+
+.neo-btn {
+    background-color: var(--accent-color);
+    color: #fff;
+    font-family: inherit;
+    font-size: 1.2rem;
+    font-weight: 900;
+    text-transform: uppercase;
+    border: var(--border-width) solid var(--border-color);
+    box-shadow: 4px 4px 0 var(--shadow-color);
+    border-radius: 6px;
+    cursor: pointer;
+    transition: transform 0.1s, box-shadow 0.1s;
+    padding: 0.8rem 1.5rem;
+}
+
+.neo-btn:active {
+    transform: translate(4px, 4px);
+    box-shadow: 0 0 0 var(--shadow-color);
+}
+
+/* Input Section */
+.input-section {
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+    background-color: #ffd000;
+}
+
+input[type="text"] {
+    flex: 1;
+    font-family: inherit;
+    font-size: 1.2rem;
+    font-weight: 700;
+    padding: 0.8rem 1rem;
+    border: var(--border-width) solid var(--border-color);
+    border-radius: 6px;
+    outline: none;
+}
+
+input[type="text"]:focus {
+    background-color: #e0f7fa;
+}
+
+/* Loader */
+.hidden {
+    display: none !important;
+}
+
+.loader {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 2rem;
+}
+
+.spinner {
+    width: 50px;
+    height: 50px;
+    border: 6px solid var(--border-color);
+    border-top-color: var(--accent-color);
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+.error-msg {
+    background-color: #ff5252;
+    color: white;
+    padding: 1rem;
+    font-weight: 700;
+    border: var(--border-width) solid var(--border-color);
+    box-shadow: 4px 4px 0 var(--shadow-color);
+    border-radius: 6px;
+    text-align: center;
+}
+
+/* Results Grid */
+.results-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 2rem;
+}
+
+.media-card {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    background-color: #fff;
+    transition: transform 0.2s;
+}
+
+.media-card:hover {
+    transform: translate(-2px, -2px);
+    box-shadow: 10px 10px 0 var(--shadow-color);
+}
+
+.media-preview {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-bottom: var(--border-width) solid var(--border-color);
+    background-color: #eee;
+}
+
+.media-actions {
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    background-color: #c8e6c9;
+}
+
+.download-btn {
+    width: 100%;
+    background-color: #00e676;
+    color: #111;
+}
+
+/* Product Info */
+.product-info {
+    background-color: #e1bee7;
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.product-info h2 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    line-height: 1.2;
+}
+
+.product-info p {
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+}
+
+.brand-label {
+    display: inline-block;
+    background-color: var(--border-color);
+    color: #fff;
+    padding: 0.2rem 0.5rem;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    .input-section {
+        flex-direction: column;
+    }
+    h1 {
+        font-size: 3rem;
+    }
+}

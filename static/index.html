@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Universal Grabber 🚀</title>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>UNIVERSAL<br><span class="highlight">GRABBER</span></h1>
+            <p>Paste an Instagram or Shopping Mall link below.</p>
+        </header>
+
+        <main>
+            <div class="input-section neo-box">
+                <input type="text" id="url-input" placeholder="https://..." autocomplete="off">
+                <button id="fetch-btn" class="neo-btn">FETCH</button>
+            </div>
+
+            <div id="loader" class="loader hidden">
+                <div class="spinner"></div>
+                <p>Snatching the pixels...</p>
+            </div>
+
+            <div id="error-message" class="error-msg hidden"></div>
+
+            <div id="product-info" class="product-info hidden neo-box">
+                <!-- Product text details injected here -->
+            </div>
+
+            <div id="results" class="results-grid">
+                <!-- Media items will be injected here -->
+            </div>
+        </main>
+    </div>
+
+    <script src="/script.js"></script>
+</body>
+</html>
