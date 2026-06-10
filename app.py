@@ -140,6 +140,15 @@ def fetch_product():
             price = f"{currency} {formatted_price}".strip()
         else:
             price = "Price not found"
+
+        og_desc = soup.find('meta', property='og:description')
+        meta_desc = soup.find('meta', attrs={'name': 'description'})
+        description = ""
+        if og_desc and og_desc.get('content'):
+            description = og_desc['content'].strip()
+        elif meta_desc and meta_desc.get('content'):
+            description = meta_desc['content'].strip()
+
         image_urls = []
         
         # 2. JSON-LD 파싱
@@ -155,6 +164,9 @@ def fetch_product():
                         brand = brand_info['name']
                     elif isinstance(brand_info, str):
                         brand = brand_info
+                        
+                    if ld_data.get('description'):
+                        description = str(ld_data['description']).strip()
                         
                     imgs = ld_data.get('image', [])
                     if isinstance(imgs, list):
@@ -210,6 +222,7 @@ def fetch_product():
             'brand': brand,
             'title': title,
             'price': price,
+            'description': description,
             'media': media_urls
         })
 
