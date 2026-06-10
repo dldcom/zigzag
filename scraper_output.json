@@ -1,0 +1,62 @@
+[
+  {
+    "brand": "NAMED COLLECTIVE®",
+    "description": "<p>★ Designed in London by NAMED COLLECTIVE®<br>★ Our signature, perfectly oversized off-the-shoulder sweater<br>★ Embellished with asymmetrical eyelet and stud details<br>★ Featuring concealed embroidered logo detail<br>★ Crafted from luxury, extra soft camo 57% cotton, 43% polyester fleece. Please note: this is a lighter weight fabric to our usual fleeceback sweat material<br>★ Chantelle is 5ft 6 (167cm) and wears a size S/M here</p>\n <p><strong>Care Instructions:</strong><br></p>\n <p>★ Sweater is machine washable at max 30°C. Gentle cycle, always wash with similar colours.<br>★ If your sweater is part of a set make sure to wash the set together.<br>★ We recommend turning the garment inside out when washing to protect the design.<br>★ Hang to dry. Do not bleach. Do not iron.</p>",
+    "is_product": true,
+    "media": [
+      {
+        "type": "image",
+        "url": "https://namedcollective.com/cdn/shop/files/midnight-studded-off-the-shoulder-sweater-camo-1_20359bdf-fb0b-4076-bd6d-d3d797350a2a.jpg?crop=center&height=1537&v=1758795098&width=1080"
+      },
+      {
+        "type": "image",
+        "url": "https://namedcollective.com/cdn/shop/files/midnight-studded-off-the-shoulder-sweater-camo-2_c223e850-0d85-4dac-984d-d37393700787.jpg?crop=center&height=1537&v=1758902646&width=1080"
+      },
+      {
+        "type": "image",
+        "url": "https://namedcollective.com/cdn/shop/files/midnight-studded-oversized-sweatpants-camo-2_c0c97c23-fb04-450a-ad52-716b366c848b.jpg?crop=center&height=1537&v=1758902642&width=1080"
+      },
+      {
+        "type": "image",
+        "url": "https://namedcollective.com/cdn/shop/files/midnight-studded-off-the-shoulder-sweater-camo-4_b05f4db4-bf0b-4b24-ba98-7f14c9d3a296.jpg?crop=center&height=1537&v=1758902516&width=1080"
+      },
+      {
+        "type": "image",
+        "url": "https://namedcollective.com/cdn/shop/files/midnight-studded-off-the-shoulder-sweater-camo-3.jpg?crop=center&height=1537&v=1758902516&width=1080"
+      },
+      {
+        "type": "image",
+        "url": "https://namedcollective.com/cdn/shop/files/midnight-studded-off-the-shoulder-sweater-camo-5_891a8a23-7e2c-49b2-9609-01f2ea98f3cb.jpg?crop=center&height=1537&v=1758902516&width=1080"
+      }
+    ],
+    "price": "GBP 156,610",
+    "success": true,
+    "title": "MIDNIGHT STUDDED OFF THE SHOULDER SWEATER CAMO"
+  },
+  {
+    "brand": "디스이즈네버댓",
+    "description": "제품분류 :소품 > 모자 브랜드 : 디스이즈네버댓(THISISNEVERTHAT) 제품번호 : GD253WHWBC01BRN 제품 : GD Dancing Bears Cap Brown - 65,000",
+    "is_product": true,
+    "media": [
+      {
+        "type": "image",
+        "url": "https://image.msscdn.net/images/goods_img/20251010/5573822/5573822_17604957941309_500.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://image.msscdn.net/images/prd_img/20251010/5573822/detail_5573822_17604957995796_big.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://image.msscdn.net/images/prd_img/20251010/5573822/detail_5573822_17604958003747_big.jpg"
+      },
+      {
+        "type": "image",
+        "url": "https://image.msscdn.net/images/goods_img/20251010/5573822/5573822_17604957941309_big.jpg"
+      }
+    ],
+    "price": "KRW 65,000",
+    "success": true,
+    "title": "GD Dancing Bears Cap Brown"
+  }
+]

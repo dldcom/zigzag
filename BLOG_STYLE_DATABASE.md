@@ -66,3 +66,47 @@
 #alldayproject #올데프 #영서 #YEONGSEO
 #namedcollective #네임드콜렉티브 #오프숄더 #카모
 #thisisneverthat #디스이즈네버댓 #볼캡 #모자
+
+---
+
+### [데이터 2] 영서 카모 오프숄더 및 브라운 볼캡 (자동 이미지 & 디테일 추가 버전)
+**작성일**: 2026-06-10
+**내용**:
+
+[ 영서 인스타그램 사진 삽입 위치 ]
+출처: instagram @yeongseo
+
+인스타그램으로 일상 사진들 공유해준 영서 🖤
+가벼운 일상 사진이지만 예쁜 아이템들이 단연 눈에 들어오네요 ㅎㅎ
+그 중에서도 이 카모 패턴 오프숄더 상의와 브라운 볼캡 조합이 제일 눈에 띄고 궁금하더라구요!
+
+<img src="https://namedcollective.com/cdn/shop/files/midnight-studded-off-the-shoulder-sweater-camo-1_20359bdf-fb0b-4076-bd6d-d3d797350a2a.jpg?crop=center&height=1537&v=1758795098&width=1080" style="max-width: 100%; display: block; margin: 0 auto; margin-bottom: 10px;">
+영서 탑 (오프숄더 스웨터)
+• 브랜드 - NAMED COLLECTIVE® (네임드콜렉티브)
+• 제품명 - MIDNIGHT STUDDED OFF THE SHOULDER SWEATER CAMO
+• 가격 - 15만 6천 원대
+
+요즘 엄청 핫한 런던 베이스 브랜드 네임드콜렉티브의 시그니처 오버사이즈 스웨터네요!
+카모 패턴에 비대칭 아일렛과 스터드 디테일이 들어가서 빈티지하면서도 힙한 느낌을 주는 것 같아요 ㅎㅎ
+숨겨진 자수 로고 디테일까지 퀄리티가 상당히 좋아 보입니다..!
+면 57%, 폴리에스터 43% 플리스 소재라 기존 맨투맨보다 훨씬 가볍고 부드러울 것 같네요 :)
+영서님이 착용해서 핏이 더 예뻐보였던..! 특유의 실루엣 덕분에 힙한 룩에 찰떡일 듯해요.
+
+위 제품 사진에 공식 홈페이지 링크 달아두었으니 편하게 접속해보셔요 !
+(현재 공홈에서는 품절이라 재입고 알림을 기다려야 할 수도 있을 것 같습니다,, ㅠㅠ)
+
+<img src="https://image.msscdn.net/images/goods_img/20251010/5573822/5573822_17604957941309_500.jpg" style="max-width: 100%; display: block; margin: 0 auto; margin-bottom: 10px;">
+영서 모자 (볼캡)
+• 브랜드 - THISISNEVERTHAT (디스이즈네버댓)
+• 제품명 - GD Dancing Bears Cap Brown
+• 가격 - 6만 5천 원
+
+함께 매치한 볼캡은 디스이즈네버댓의 댄싱 베어 캡이네요!
+카모 패턴 오프숄더에 브라운 컬러 모자를 톤온톤으로 매치한 센스가 너무 좋은 영서.. 🖤
+전면에 들어간 베어 자수가 포인트도 되고 귀여운 것 같아요 ㅎㅎ
+무신사에서 판매 중이니 다른 컬러들도 함께 구경해 보시면 좋을 것 같네요!
+
+제품들 댓글 남겨주시면 최대한 찾아드립니다!
+(영상, 사진에서 화질이 낮거나 흐리면 식별이 어려운 점 양해 부탁드려요 ㅎㅎ)
+
+#250610 #alldayproject #올데프 #영서 #YEONGSEO #namedcollective #네임드콜렉티브 #오프숄더 #카모 #thisisneverthat #디스이즈네버댓 #볼캡 #모자
