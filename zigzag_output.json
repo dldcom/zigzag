@@ -1,0 +1,68 @@
+[
+  {
+    "brand": "러블리힙",
+    "description": "러블리힙 [여름,색조합🩵/레이어드set] 키시 물결 스터드 골지 나시 레이어드 시스루 반팔 티셔츠 유니크,러블리",
+    "is_product": true,
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cf.product-image.s.zigzag.kr/original/c/16/949/538/169495381-9221680634865013175.jpeg?width=720&height=720&quality=80&format=jpeg"
+      },
+      {
+        "type": "image",
+        "url": "https://cf.product-image.s.zigzag.kr/original/c/16/949/538/169495381-6263561547877889238.jpeg?width=720&height=720&quality=80&format=jpeg"
+      },
+      {
+        "type": "image",
+        "url": "https://cf.product-image.s.zigzag.kr/original/c/16/949/538/169495381-6849885276876679776.jpeg?width=720&height=720&quality=80&format=jpeg"
+      },
+      {
+        "type": "image",
+        "url": "https://cf.product-image.s.zigzag.kr/original/c/16/949/538/169495381-6046291651606295335.jpeg?width=720&height=720&quality=80&format=jpeg"
+      },
+      {
+        "type": "image",
+        "url": "https://cf.product-image.s.zigzag.kr/original/c/16/949/538/169495381-863740585315451572.jpeg?width=720&height=720&quality=80&format=jpeg"
+      }
+    ],
+    "price": "KRW 26,000",
+    "success": true,
+    "title": "러블리힙 [여름,색조합🩵/레이어드set] 키시 물결 스터드 골지 나시 레이어드 시스루 반팔 티셔츠"
+  },
+  {
+    "brand": "스페인샵",
+    "description": "스페인샵 망고 비대칭넥 스터드 반팔 티셔츠 37081465_30 MARRON 캐주얼,컨템포러리",
+    "is_product": true,
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cf.product-image.s.zigzag.kr/original/d/2026/5/21/36111_202605211420010753_28097.jpeg?width=720&height=720&quality=80&format=jpeg"
+      },
+      {
+        "type": "image",
+        "url": "https://cf.product-image.s.zigzag.kr/original/d/2026/5/21/36111_202605211420010753_19484.jpeg?width=720&height=720&quality=80&format=jpeg"
+      },
+      {
+        "type": "image",
+        "url": "https://cf.product-image.s.zigzag.kr/original/d/2026/5/21/36111_202605211420010754_81417.jpeg?width=720&height=720&quality=80&format=jpeg"
+      }
+    ],
+    "price": "KRW 60,900",
+    "success": true,
+    "title": "스페인샵 망고 비대칭넥 스터드 반팔 티셔츠 37081465_30 MARRON"
+  },
+  {
+    "brand": "조브",
+    "description": "조브 로키나시 스터드 이너 슬리브리스 t (3colors) 심플베이직,유니크",
+    "is_product": true,
+    "media": [
+      {
+        "type": "image",
+        "url": "https://cf.product-image.s.zigzag.kr/original/c/15/773/217/157732173-930555757560967511.gif?width=720&height=720&quality=80&format=jpeg"
+      }
+    ],
+    "price": "KRW 21,760",
+    "success": true,
+    "title": "조브 로키나시 스터드 이너 슬리브리스 t (3colors)"
+  }
+]
