@@ -17,8 +17,13 @@
      * `• 브랜드 - [브랜드명]`
      * `• 제품명 - [제품명]`
      * `• 가격 - [가격]`
-   * 이미지가 들어갈 자리는 추출한 데이터의 이미지 URL을 활용하여 `<img src="이미지주소" style="max-width: 100%; display: block; margin: 0 auto; margin-bottom: 10px;">` 형태로 본문에 직접 사진을 삽입해 줍니다.
+   * 이미지가 들어갈 자리는 `[ (어떤) 사진 삽입 위치 ]` 형태로 안내 문구를 삽입합니다.
    * 맨 아래에는 관련 해시태그(#날짜 #프로젝트명 #연예인 #브랜드명 #카테고리)를 일목요연하게 묶어서 추가합니다.
+
+---
+
+## 📌 참고 예시 문서
+* 처음 스타일의 기준이 된 원본 가이드라인 문서입니다: [블로그 예시.pdf](./블로그 예시.pdf)
 
 ---
 
@@ -80,7 +85,7 @@
 가벼운 일상 사진이지만 예쁜 아이템들이 단연 눈에 들어오네요 ㅎㅎ
 그 중에서도 이 카모 패턴 오프숄더 상의와 브라운 볼캡 조합이 제일 눈에 띄고 궁금하더라구요!
 
-<img src="https://namedcollective.com/cdn/shop/files/midnight-studded-off-the-shoulder-sweater-camo-1_20359bdf-fb0b-4076-bd6d-d3d797350a2a.jpg?crop=center&height=1537&v=1758795098&width=1080" style="max-width: 100%; display: block; margin: 0 auto; margin-bottom: 10px;">
+[ 네임드콜렉티브 제품 사진 삽입 위치 ]
 영서 탑 (오프숄더 스웨터)
 • 브랜드 - NAMED COLLECTIVE® (네임드콜렉티브)
 • 제품명 - MIDNIGHT STUDDED OFF THE SHOULDER SWEATER CAMO
@@ -95,7 +100,7 @@
 위 제품 사진에 공식 홈페이지 링크 달아두었으니 편하게 접속해보셔요 !
 (현재 공홈에서는 품절이라 재입고 알림을 기다려야 할 수도 있을 것 같습니다,, ㅠㅠ)
 
-<img src="https://image.msscdn.net/images/goods_img/20251010/5573822/5573822_17604957941309_500.jpg" style="max-width: 100%; display: block; margin: 0 auto; margin-bottom: 10px;">
+[ 디스이즈네버댓 제품 사진 삽입 위치 ]
 영서 모자 (볼캡)
 • 브랜드 - THISISNEVERTHAT (디스이즈네버댓)
 • 제품명 - GD Dancing Bears Cap Brown
